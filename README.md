@@ -9,7 +9,7 @@
 
 ## Installation
 
-- [From market place](https://marketplace.visualstudio.com/items?itemName=2giosangmitom.2-gio-sang-mi-tom)
+- [From market place](https://marketplace.visualstudio.com/items?itemName=2giosangmitom.2giosangmitom)
 
 ## Theming Reference
 
