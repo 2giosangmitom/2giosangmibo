@@ -1,0 +1,22 @@
+{
+  "name": "2giosangmitom",
+  "displayName": "2 gio sang mi tom",
+  "description": "A modern dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "icon": "logo.jpg",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "2 gio sang mi tom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/2 gio sang mi tom-color-theme.json"
+      }
+    ]
+  }
+}
