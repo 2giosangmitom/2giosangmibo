@@ -1,15 +1,20 @@
 <h1 align="center">
-  2 gio sang mi tom theme for Visual Studio Code
+  <a href="https://marketplace.visualstudio.com/items?itemName=2giosangmitom.2giosangmitom">2 gio sang mi tom</a>
 </h1>
+
 <p align="center">
-  A minimal, modern theme for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  A solid, modern dark theme for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 </p>
 
+<div align="center">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/yeuxacucodon/vscode?style=for-the-badge&logo=github&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/yeuxacucodon/vscode?style=for-the-badge&logo=startrek&color=c69ff5&logoColor=FFE200&labelColor=302D41" />
+  <img alt="LICENSE" src="https://img.shields.io/github/license/yeuxacucodon/neovim-config?style=for-the-badge&logo=bookstack&color=ee999f&logoColor=808080&labelColor=302D41" />
+  <img alt="Issues" src="https://img.shields.io/github/issues/yeuxacucodon/vscode?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/yeuxacucodon/vscode?color=%23DDB6F2&label=SIZE&logo=onlyoffice&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+</div>
+
 ![](https://raw.githubusercontent.com/yeuxacucodon/vscode/main/preview.png)
-
-## Installation
-
-- [From market place](https://marketplace.visualstudio.com/items?itemName=2giosangmitom.2giosangmitom)
 
 ## Theming Reference
 
