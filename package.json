@@ -4,6 +4,11 @@
   "description": "A modern dark theme for Visual Studio Code",
   "version": "0.0.1",
   "icon": "logo.jpg",
+  "publisher": "2giosangmitom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeuxacucodon/vscode"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
