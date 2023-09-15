@@ -14,7 +14,7 @@
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/2giosangmitom/vscode?color=%23DDB6F2&label=SIZE&logo=onlyoffice&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
 </div>
 
-![](https://raw.githubusercontent.com/2giosangmitom/vscode/main/preview.png)
+![preview](https://raw.githubusercontent.com/2giosangmitom/vscode/main/images/preview.png)
 
 ## Theming Reference
 
