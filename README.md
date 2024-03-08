@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> `2 gio sang mi tom` will no longer be actively maintained or supported. The extension will no longer receive updates, bug fixes, or new features. Thank you :heart:
+
 <h1 align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=2giosangmitom.2giosangmitom">2 gio sang mi tom</a>
 </h1>
